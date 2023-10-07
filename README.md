@@ -3,14 +3,13 @@
 A new Flutter project.
 
 ## Getting Started
+App
 
-This project is a starting point for a Flutter application.
+![Screenshot 2023-10-07 100835](https://github.com/AhmedBelal31/Simple-Sebha-App/assets/131663660/6563b0f5-7e46-47db-b650-45c3fa992221)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/AhmedBelal31/Simple-Sebha-App/assets/131663660/27b57e6f-d1c2-4bde-9ae2-fdbfd4678c3a
+
+
+
